@@ -52,7 +52,6 @@ html {
 
 .page__title::after {
   content: "*";
-  margin-left: -25px;
 }
 
 .page__title:hover::before {
